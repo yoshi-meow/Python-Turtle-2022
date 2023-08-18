@@ -1,4 +1,4 @@
-# (Computer Graphics Programming - SY2122-2T)
+# Computer Graphics Programming - SY2122-2T
 
 - Creating Python Turtle in a Pixel Stitch
 
